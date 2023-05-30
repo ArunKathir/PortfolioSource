@@ -44,15 +44,13 @@
 }
 
 .about-image-container {
-	width: 370px;
+	width: 100%;
 }
 
 .about-image-wrapper {
-	display: inline-block;
+	/* display: inline-block; */
 	overflow: hidden;
 	width: 100%;
-	border-radius: 10%;
-	transform: rotate(3deg);
 }
 
 .about-image-wrapper img {
@@ -67,6 +65,11 @@
 
 .about-socials-mobile {
 	display: none;
+}
+
+.about-image{
+border-radius: 10px;
+	overflow: hidden;
 }
 
 @media (max-width: 1024px) {

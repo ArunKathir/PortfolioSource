@@ -1,8 +1,8 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "Portfolio || Arunkumar",
+		name: "Arun V.",
+		email: "ak3333247@gmail.com",
 		logo: "../logo.png",
 	},
 
@@ -16,15 +16,15 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Arunkumar, Full-stack web developer.",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"I am a versatile developer proficient in HTML, CSS, JavaScript, React, Node.js, Express.js, and utilizing UI libraries such as Antd and Tailwind CSS. With expertise in crafting elegant and intuitive user interfaces, I excel at building captivating web applications. My backend skills focus on Node.js and Express.js, enabling me to develop scalable and secure server-side applications. By following best practices and industry standards, I ensure high-quality, maintainable, and reusable code. With a keen eye for design, I prioritize exceptional user experiences by leveraging UI libraries like Antd and Tailwind CSS. Constantly seeking growth opportunities, I am passionate about creating innovative and impactful applications.",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "I’m Arun V. I live in India, Tamilnadu, where I design the future.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+		"I have worked on a wide range of projects during my programming journey, and I take pride in the progress I have made. Many of these projects are open-source and accessible for anyone interested to explore and contribute to. If you are keen on any of the projects I have worked on, I encourage you to take a look at the code and provide any suggestions or enhancements that come to mind. /n Collaborating with others is an excellent opportunity to learn and develop skills, and I am always receptive to fresh ideas and feedback.As a newcomer with great programming knowledge, your insights and perspectives would be highly valuable. Feel free to browse through the projects, share your thoughts, and propose any improvements. I believe that embracing different viewpoints is an effective way to grow and further refine my work.",
 	},
 
 	articles: {
